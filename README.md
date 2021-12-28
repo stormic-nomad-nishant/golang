@@ -1,3 +1,9 @@
+
+# Golang
+
+A self paced learning project for teaching Golang
+
+
 ## Installing go
 
 You can install golang by following the official doc https://go.dev/learn/ 
@@ -8,9 +14,7 @@ You can install golang by following the official doc https://go.dev/learn/
 
 There are 2 ways to run a go program, the first one is long way: 
 
-1.  
-
-In order to run a go program the first thing you need to do is compile it : 
+1.  In order to run a go program the first thing you need to do is compile it : 
 
 ```bash
 $ go build file_name.go
