@@ -1,3 +1,3 @@
 # golang
 
-#### _{ Learn go fundamentals and basics}_
+#### _Learn go fundamentals and basics_
