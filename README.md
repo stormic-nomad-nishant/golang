@@ -10,7 +10,7 @@ You can install golang by following the official doc <https://go.dev/learn/>
 
 
 ## Official Go Documentation
-    https://go.dev/doc/
+    <https://go.dev/doc/>
 
 
 ## Running a Go program
