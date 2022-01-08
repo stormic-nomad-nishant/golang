@@ -9,6 +9,7 @@ You can install golang by following the official doc: <https://go.dev/learn/>
 
 ## Official Go Documentation
 The official golang documentation can be found at: <https://go.dev/doc/>
+ -  Packages can be found at <https://pkg.go.dev/>
 
 
 ## Running a Go program
