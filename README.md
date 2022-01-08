@@ -1,16 +1,14 @@
 
 # Golang
-
 A self paced learning project for teaching Golang
 
 
 ## Installing go
-
-You can install golang by following the official doc <https://go.dev/learn/>
+You can install golang by following the official doc: <https://go.dev/learn/>
 
 
 ## Official Go Documentation
-    <https://go.dev/doc/>
+The official golang documentation can be found at: <https://go.dev/doc/>
 
 
 ## Running a Go program
