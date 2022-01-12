@@ -1,3 +1,4 @@
+// TYPE CONVERSION
 package main
 
 import (
